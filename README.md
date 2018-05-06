@@ -1,6 +1,6 @@
 # 一个会动的简历模板
 
-> This is my resume
+> This is PQY's resume
 
 [预览](https://Fanqieyu.github.io/animating-resume/public/)
 
